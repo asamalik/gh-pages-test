@@ -3,7 +3,6 @@ id: 129
 title: Fedora Developer Portal
 date: 2015-06-07T22:24:29+00:00
 author: adam
-layout: post
 guid: http://blog.samalik.com/?p=129
 permalink: /fedora-developer-portal/
 catchflames-sidebarlayout:

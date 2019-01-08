@@ -3,7 +3,6 @@ id: 223
 title: Make your Gnome title bars smaller
 date: 2016-02-03T10:18:02+00:00
 author: adam
-layout: post
 guid: http://blog.samalik.com/?p=223
 permalink: /make-your-gnome-title-bars-smaller/
 catchflames-sidebarlayout:

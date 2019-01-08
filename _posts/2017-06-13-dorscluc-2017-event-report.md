@@ -3,7 +3,6 @@ id: 366
 title: DORS/CLUC 2017 event report
 date: 2017-06-13T09:49:24+00:00
 author: adam
-layout: post
 guid: http://blog.samalik.com/?p=366
 permalink: /dorscluc-2017-event-report/
 catchflames-sidebarlayout:

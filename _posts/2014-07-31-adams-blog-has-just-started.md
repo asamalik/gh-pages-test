@@ -3,7 +3,6 @@ id: 54
 title: 'Adam&#8217;s blog has just started'
 date: 2014-07-31T15:44:29+00:00
 author: adam
-layout: post
 guid: http://blog.samalik.com/?p=54
 permalink: /adams-blog-has-just-started/
 catchflames-sidebarlayout:

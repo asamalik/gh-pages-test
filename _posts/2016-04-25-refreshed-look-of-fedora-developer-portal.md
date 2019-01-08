@@ -3,7 +3,6 @@ id: 262
 title: Refreshed Look of Fedora Developer Portal
 date: 2016-04-25T18:11:43+00:00
 author: adam
-layout: post
 guid: http://blog.samalik.com/?p=262
 permalink: /refreshed-look-of-fedora-developer-portal/
 catchflames-sidebarlayout:

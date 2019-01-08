@@ -3,7 +3,6 @@ id: 154
 title: 'Fedora Developer Portal &#8211; prototype'
 date: 2015-07-21T15:14:06+00:00
 author: adam
-layout: post
 guid: http://blog.samalik.com/?p=154
 permalink: /fedora-developer-portal-prototype/
 catchflames-sidebarlayout:

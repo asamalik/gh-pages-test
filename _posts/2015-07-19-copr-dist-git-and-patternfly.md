@@ -3,7 +3,6 @@ id: 167
 title: Copr, Dist Git and Patternfly
 date: 2015-07-19T11:17:24+00:00
 author: adam
-layout: post
 guid: http://blog.samalik.com/?p=167
 permalink: /copr-dist-git-and-patternfly/
 catchflames-sidebarlayout:

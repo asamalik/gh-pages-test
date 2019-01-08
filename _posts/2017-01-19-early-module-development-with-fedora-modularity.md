@@ -3,7 +3,6 @@ id: 316
 title: Early module development with Fedora Modularity
 date: 2017-01-19T12:01:07+00:00
 author: adam
-layout: post
 guid: http://blog.samalik.com/?p=316
 permalink: /early-module-development-with-fedora-modularity/
 catchflames-sidebarlayout:

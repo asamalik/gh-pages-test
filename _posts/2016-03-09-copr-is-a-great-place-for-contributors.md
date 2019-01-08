@@ -3,7 +3,6 @@ id: 247
 title: Copr is a great place for contributors
 date: 2016-03-09T14:54:33+00:00
 author: adam
-layout: post
 guid: http://blog.samalik.com/?p=247
 permalink: /copr-is-a-great-place-for-contributors/
 catchflames-sidebarlayout:

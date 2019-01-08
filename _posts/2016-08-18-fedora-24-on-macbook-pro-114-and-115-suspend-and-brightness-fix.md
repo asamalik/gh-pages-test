@@ -3,7 +3,6 @@ id: 290
 title: 'Fedora 24 on MacBook Pro 11,4 and 11,5 &#8211; suspend and brightness fix'
 date: 2016-08-18T12:47:04+00:00
 author: adam
-layout: post
 guid: http://blog.samalik.com/?p=290
 permalink: /fedora-24-on-macbook-pro-114-and-115-suspend-and-brightness-fix/
 catchflames-sidebarlayout:

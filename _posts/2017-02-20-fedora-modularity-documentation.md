@@ -3,7 +3,6 @@ id: 340
 title: Fedora Modularity Documentation
 date: 2017-02-20T11:39:10+00:00
 author: adam
-layout: post
 guid: http://blog.samalik.com/?p=340
 permalink: /fedora-modularity-documentation/
 catchflames-sidebarlayout:

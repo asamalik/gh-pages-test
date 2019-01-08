@@ -3,7 +3,6 @@ id: 36
 title: 'Copr update &#8211; new features in July 2014'
 date: 2014-07-31T12:20:10+00:00
 author: adam
-layout: post
 guid: http://blog.samalik.com/?p=36
 permalink: /copr-update-new-features-in-july-2014/
 catchflames-sidebarlayout:

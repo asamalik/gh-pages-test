@@ -3,7 +3,6 @@ id: 93
 title: Community release of Software Collections 1.2
 date: 2014-11-25T18:22:23+00:00
 author: adam
-layout: post
 guid: http://blog.samalik.com/?p=93
 permalink: /community-release-of-software-collections-1-2/
 catchflames-sidebarlayout:

@@ -3,7 +3,6 @@ id: 120
 title: Copr got a new logo
 date: 2015-06-07T09:21:10+00:00
 author: adam
-layout: post
 guid: http://blog.samalik.com/?p=120
 permalink: /copr-got-a-new-logo-2/
 catchflames-sidebarlayout:

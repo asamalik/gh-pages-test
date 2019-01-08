@@ -3,7 +3,6 @@ id: 436
 title: Package rebuilds in Modularity
 date: 2017-10-02T13:43:08+00:00
 author: adam
-layout: post
 guid: https://blog.samalik.com/?p=436
 permalink: /package-rebuilds-in-modularity/
 catchflames-sidebarlayout:

@@ -3,7 +3,6 @@ id: 275
 title: 'Make your Gnome title bar smaller &#8211; Fedora 24 update'
 date: 2016-07-22T08:28:42+00:00
 author: adam
-layout: post
 guid: http://blog.samalik.com/?p=275
 permalink: /make-your-gnome-title-bar-smaller-fedora-24-update/
 catchflames-sidebarlayout:

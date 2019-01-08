@@ -3,7 +3,6 @@ id: 285
 title: 'Roles of PDC and BPO in Modularity &#8211; please give me feedback'
 date: 2016-08-16T14:28:08+00:00
 author: adam
-layout: post
 guid: http://blog.samalik.com/?p=285
 permalink: /roles-of-pdc-and-bpo-in-modularity/
 catchflames-sidebarlayout:

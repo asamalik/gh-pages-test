@@ -3,7 +3,6 @@ id: 237
 title: Fedora 24 chroots in Copr + bonus
 date: 2016-03-01T16:18:28+00:00
 author: adam
-layout: post
 guid: http://blog.samalik.com/?p=237
 permalink: /fedora-24-chroot-in-copr-bonus/
 catchflames-sidebarlayout:

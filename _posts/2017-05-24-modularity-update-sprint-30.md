@@ -3,7 +3,6 @@ id: 347
 title: 'Modularity update &#8211; sprint 30'
 date: 2017-05-24T14:07:10+00:00
 author: adam
-layout: post
 guid: http://blog.samalik.com/?p=347
 permalink: /modularity-update-sprint-30/
 catchflames-sidebarlayout:

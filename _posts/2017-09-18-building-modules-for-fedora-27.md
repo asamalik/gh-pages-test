@@ -3,7 +3,6 @@ id: 415
 title: Building Modules for Fedora 27
 date: 2017-09-18T08:34:02+00:00
 author: adam
-layout: post
 guid: http://blog.samalik.com/?p=415
 permalink: /building-modules-for-fedora-27/
 catchflames-sidebarlayout:

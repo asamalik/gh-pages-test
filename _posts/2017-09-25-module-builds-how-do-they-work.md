@@ -3,7 +3,6 @@ id: 425
 title: 'Module builds &#8211; how do they work?'
 date: 2017-09-25T11:49:06+00:00
 author: adam
-layout: post
 guid: http://blog.samalik.com/?p=425
 permalink: /module-builds-how-do-they-work/
 catchflames-sidebarlayout:

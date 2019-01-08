@@ -3,7 +3,6 @@ id: 381
 title: 'Modular F27 Server Edition &#8211; initial design'
 date: 2017-06-22T15:41:57+00:00
 author: adam
-layout: post
 guid: http://blog.samalik.com/?p=381
 permalink: /modular-f27-server-edition-initial-design/
 catchflames-sidebarlayout:

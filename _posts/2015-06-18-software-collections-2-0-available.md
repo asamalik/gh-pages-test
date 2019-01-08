@@ -3,7 +3,6 @@ id: 144
 title: Software Collections 2.0 available
 date: 2015-06-18T11:19:22+00:00
 author: adam
-layout: post
 guid: http://blog.samalik.com/?p=144
 permalink: /software-collections-2-0-available/
 catchflames-sidebarlayout:

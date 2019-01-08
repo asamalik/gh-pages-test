@@ -3,7 +3,6 @@ id: 209
 title: Number of builds in Copr over time
 date: 2015-07-29T14:51:16+00:00
 author: adam
-layout: post
 guid: http://blog.samalik.com/?p=209
 permalink: /number-of-builds-in-copr-over-time/
 catchflames-sidebarlayout:

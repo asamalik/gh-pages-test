@@ -3,7 +3,6 @@ id: 81
 title: 'Software Collections: new look and documentation'
 date: 2014-10-21T08:42:36+00:00
 author: adam
-layout: post
 guid: http://blog.samalik.com/?p=81
 permalink: /software-collections-new-look-and-documentation/
 categories:

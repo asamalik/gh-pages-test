@@ -3,7 +3,6 @@ id: 294
 title: Copr in the Modularity World
 date: 2016-09-05T16:55:28+00:00
 author: adam
-layout: post
 guid: http://blog.samalik.com/?p=294
 permalink: /copr-in-the-modularity-world/
 catchflames-sidebarlayout:

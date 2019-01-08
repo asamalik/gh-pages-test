@@ -3,7 +3,6 @@ id: 397
 title: Flock 2017 was awesome!
 date: 2017-09-12T11:48:44+00:00
 author: adam
-layout: post
 guid: http://blog.samalik.com/?p=397
 permalink: /flock-2017-was-awesome/
 catchflames-sidebarlayout:
