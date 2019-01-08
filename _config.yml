@@ -4,4 +4,5 @@ description: >
   Open Source, Open Mind, Open Ideas, Open
   Everything.
 
-theme: jekyll-theme-minimal
+remote_theme: mmistakes/minimal-mistakes
+
