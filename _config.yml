@@ -1,5 +1,7 @@
 url: https://test.samalik.com
-name: 'Adam&#039;s Blog'
+title: 'Adam's Blog'
+name: 'Adam Samalik'
+locale: "en-GB"
 description: >
   Open Source, Open Mind, Open Ideas, Open
   Everything.
@@ -8,3 +10,6 @@ plugins:
   - jekyll-include-cache
  
 remote_theme: "mmistakes/minimal-mistakes@4.14.2"
+
+minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+breadcrumbs: true
