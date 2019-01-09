@@ -22,7 +22,7 @@ author:
   bio      : "Open source enthusiast. Software Engineer with Red Hat working on Fedora. Design is not just how it looks like."
   location : "Prague, CZ" 
   links:
-  - label: "Twitter"
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/adsamalik"
 
