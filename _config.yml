@@ -7,6 +7,11 @@ description: >
   Everything.
 
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
   - jekyll-include-cache
  
 remote_theme: "mmistakes/minimal-mistakes@4.14.2"
